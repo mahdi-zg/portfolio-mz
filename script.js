@@ -68,16 +68,16 @@ const projects = [
     },
     {
         title: "Restaurant Web App",
-        description: "An e-commerce platform that allows users to shop seamlessly with various payment options.",
-        technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js'],
+        description: "I developed a restaurant platform that allows users to explore various dining options, place orders, and pay online seamlessly. The application also includes features for making reservations and submitting complaints. Additionally, it offers real-time updates on order status and integrates customer feedback to enhance service quality..",
+        technologies: ['HTML', 'CSS', 'JavaScript', 'Php...'],
         link: 'https://github.com/project3',
         demo: 'https://project3-demo.com'
     },
     {
-        title: "Frontend Project 4",
-        description: "A personal portfolio website that showcases my work and skills in web development.",
-        technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
-        link: 'https://github.com/project4',
+        title: "Real State Web App",
+        description: "I developed a real estate platform with features for property sales, rentals, and tools for mortgage calculation and property evaluation. The platform uses web scraping to keep listings updated automatically and includes an AI-powered chatbot for smooth user interaction. Additionally, I implemented a bidding management system with sponsorship opportunities to enhance user experience.",
+        technologies: ['Spring Boot', 'Angular', 'MySQL', 'Boostrap...'],
+        link: 'https://github.com/zarrougAchraf/ImmoNexusApp',
         demo: 'https://project4-demo.com'
     }
 ];
