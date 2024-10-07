@@ -63,14 +63,14 @@ const projects = [
         title: "Survey Management Web App",
         description: "I developed a web application for managing surveys, which helps understand users through questionnaires. This tool allows easy survey creation and sharing, collecting important feedback. With features like email verification and clear statistics, it helps make informed decisions based on what users say. This application is key to gaining insights and conducting research that can guide future actions.",
         technologies: ['HTML', 'CSS', 'Ruby', 'SQLite...'],
-        link: 'https://github.com/project2',
+        link: 'https://github.com/mahdi-zg/ProjetFinal',
         demo: 'https://project2-demo.com'
     },
     {
         title: "Restaurant Web App",
         description: "I developed a restaurant platform that allows users to explore various dining options, place orders, and pay online seamlessly. The application also includes features for making reservations and submitting complaints. Additionally, it offers real-time updates on order status and integrates customer feedback to enhance service quality..",
         technologies: ['HTML', 'CSS', 'JavaScript', 'Php...'],
-        link: 'https://github.com/project3',
+        link: 'https://github.com/MarzoukiAziz/theTakeawayWeb',
         demo: 'https://project3-demo.com'
     },
     {
